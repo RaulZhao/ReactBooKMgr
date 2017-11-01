@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App Test App snapshots 1`] = `
+<div
+  className="App"
+>
+  <div
+    className="App-header"
+  >
+    <img
+      alt="logo"
+      className="App-logo"
+      src="logo.svg"
+    />
+    <h2>
+      Welcome to React
+    </h2>
+  </div>
+  <div
+    className="book-list-container"
+  >
+    <h3>
+      Books List:
+    </h3>
+  </div>
+  <div
+    className="search-input"
+  >
+    <span>
+      Search Book:
+    </span>
+    <input
+      onChange={[Function]}
+      type="text"
+    />
+  </div>
+  <div
+    className="search-result"
+  >
+    <h4 />
+  </div>
+</div>
+`;
